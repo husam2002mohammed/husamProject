@@ -1,0 +1,143 @@
+div#main {
+ width: auto;
+ position: absolute;
+ top: 0;
+ left: 225px; background: yellow; }
+div#extras {
+ width: 200px;
+ position: absolute;
+ top: 0;
+ left: 0;
+ background: orange; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="email"> <input type="search"> <input type="tel"> <input type="url">
+
+
+
+
+
+<li><label for="form-pswd">Log in:</label><br>
+ <input type="password" name="pswd" maxlength="8" id="form-pswd"></li> (*)
+
+
+
+
+
+
+
+
+
+
+
+
+الغي رابط target-blank تاع صفحة about , contact us وحط رابط الهوم بيج فيهم 
+
+<dl>   استخدم هذا الكود لاضالفة تفاصيل للحيوان 
+ <dt>Coffee</dt>
+ <dd>- black hot drink</dd>
+ <dt>Milk</dt>
+ <dd>- white cold drink</dd>
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><input type="submit"> <input type="reset" value="Start over"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <input type="text" 
+list="edulevel" name="education">
+<datalist id="edulevel">
+ <option value="High School">
+ <option value="Bachelors Degree">
+ <option value="Masters Degree">
+ <option value="PhD">
+</datalist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<select name="EightiesBands" size="6" multiple>
+
+
+
+
+
+
+
+
+ <input type="file" name="photo" size="28"><label>
+
+
+
+
+
+
+
+
+
+<input type="range">
